@@ -23,5 +23,5 @@ sql dump file:
 - > mysql -u <user_name> -p accounts < db_backup.sql
 
 
-![Uploading Screenshot 2025-09-27 at 6.08.55 PM.png…]()
 
+<img width="1785" height="976" alt="Screenshot 2025-09-27 at 6 08 55 PM" src="https://github.com/user-attachments/assets/4e1fdd39-16f4-4c41-9da5-319f68ba34d5" />
